@@ -1,6 +1,6 @@
 interface:
   display_name: "轻量开发小队"
-  short_description: "以更少上下文和代理完成软件开发任务"
+  short_description: "以更少上下文、推理和代理调度完成复杂软件开发任务流程"
   default_prompt: "使用 $dev-team-lite 以省 Token 模式完成当前开发任务。"
 
 policy:
