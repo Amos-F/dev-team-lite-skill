@@ -1,7 +1,7 @@
 interface:
   display_name: "轻量开发小队"
-  short_description: "以更少上下文、推理和代理调度完成复杂软件开发任务流程"
-  default_prompt: "使用 $dev-team-lite 以省 Token 模式完成当前开发任务。"
+  short_description: "按需分工与局部上下文，在完成质量不变的前提下降低开发整体消耗"
+  default_prompt: "使用 $dev-team-lite 完成当前开发任务，通过局部上下文和按需分工减少整体消耗。"
 
 policy:
   allow_implicit_invocation: true
